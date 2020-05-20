@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+}
+
+.searchbar {
+    display: flex;
+    width: 100%;
+}
+
+.usersnumber {
+    
+    font-size: 30px;
+}
+
+.container {
+    display: block;
+    padding: 20px;
+    margin-top: 10px;
+    
+    
+    
+}
+
+.scontainer div {
+    display: flex;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+
+.userdiv {
+    padding: 25px;
+    border-bottom: 1px solid;
+
+}
+
+.userdiv span {
+    display: block;
+    margin-top: 15px;
+    
+    
+    
+}
+
+.pic {
+    border-radius: 50%;
+    
+}
+
+.btn {
+    height: 45.4px;
+}
+
+.data {
+    display: flex;
+
+}
+
+.data {
+    display: flex;
+    justify-content: center;
+}
+
+.users, .statistics {
+    text-align: center;
+       
+    width: 500px;
+    height: 500px;
+}
+
